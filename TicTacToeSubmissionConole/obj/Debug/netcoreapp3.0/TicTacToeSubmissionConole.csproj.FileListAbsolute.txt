@@ -1,0 +1,12 @@
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.exe
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.deps.json
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.runtimeconfig.json
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.runtimeconfig.dev.json
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.dll
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.pdb
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeRendererLib.dll
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.AssemblyInfoInputs.cache
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.AssemblyInfo.cs
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.csproj.CopyComplete
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.dll
+C:\Xamarin\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.pdb
